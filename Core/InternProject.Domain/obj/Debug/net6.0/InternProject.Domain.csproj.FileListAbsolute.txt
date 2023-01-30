@@ -1,0 +1,14 @@
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\bin\Debug\net6.0\InternProject.Domain.deps.json
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\bin\Debug\net6.0\InternProject.Domain.runtimeconfig.json
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\bin\Debug\net6.0\InternProject.Domain.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\bin\Debug\net6.0\InternProject.Domain.pdb
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.csproj.AssemblyReference.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.AssemblyInfoInputs.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.AssemblyInfo.cs
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\refint\InternProject.Domain.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.pdb
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\InternProject.Domain.genruntimeconfig.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Domain\obj\Debug\net6.0\ref\InternProject.Domain.dll

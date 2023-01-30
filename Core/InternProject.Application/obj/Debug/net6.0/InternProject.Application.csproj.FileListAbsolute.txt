@@ -1,0 +1,17 @@
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Application.deps.json
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Application.runtimeconfig.json
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Application.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Application.pdb
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.csproj.AssemblyReference.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.AssemblyInfoInputs.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.AssemblyInfo.cs
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\refint\InternProject.Application.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.pdb
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.genruntimeconfig.cache
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\ref\InternProject.Application.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Domain.dll
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\bin\Debug\net6.0\InternProject.Domain.pdb
+C:\Users\nur.imece\RiderProjects\InternProject\Core\InternProject.Application\obj\Debug\net6.0\InternProject.Application.csproj.CopyComplete
